@@ -10,10 +10,9 @@ Sou um desenvolvedor em transição para a área de tecnologia, focado em constr
 ### 📈 Evolução dos meus projetos:
 1.  **[Olá Mundo](https://github.com/franklingoncalvess/Ola-Mundo):** Onde tudo começou (Lógica básica).
 2.  **[Calculadora Full Stack](https://github.com/franklingoncalvess/calculadora-python-estudos):** Evolução de um script Python para uma aplicação Web completa com API Flask.
-3.  **Integração Node/Python:** Projetos complexos conectando diferentes ecossistemas.
+3.  **[Integração Node/Python](https://github.com/franklingoncalvess/projeto-integracao-py-node):** Projetos complexos conectando diferentes ecossistemas.
 
 ---
-📫 **Como me encontrar:** [www.linkedin.com/in/
-franklingoncalvess] | [Franklingoncalvess@gmail.com]
+📫 **Como me encontrar:** [www.linkedin.com/in/franklingoncalvess] | [Franklingoncalvess@gmail.com]
 
 *"A evolução é constante, um commit de cada vez."*
