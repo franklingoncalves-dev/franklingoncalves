@@ -1,15 +1,19 @@
-# Olá, eu sou o Franklin (Fk.Dev)! 👋
+# Olá, eu sou o Franklin Gonçalves! 👋
 
-Estou em uma jornada de transição para a área de tecnologia, focando em me tornar um desenvolvedor Full Stack. Atualmente, estou construindo minha base com Python e Node.js.
+Sou um desenvolvedor em transição para a área de tecnologia, focado em construir soluções que conectam o mundo real ao digital. Atualmente, me especializo em **Integração de Sistemas e Desenvolvimento Full Stack**.
 
-### 🛠️ Tecnologias que estou aprendendo:
-- **Linguagens:** Python, JavaScript (Node.js)
-- **Ferramentas:** Git, GitHub, VS Code
-- **Ambiente:** Linux (WSL2), Docker
-- **Foco Atual:** Integração de sistemas e lógica de programação
+### 🛠️ No meu arsenal técnico:
+* **Backend:** Python (Flask), Node.js
+* **Frontend:** HTML5, JavaScript (integração via Fetch API)
+* **Ferramentas:** Git, GitHub, VS Code, Docker, Linux (WSL2)
 
-### 📈 Meus Projetos:
-- **[Projeto Integração Py-Node](https://github.com/franklingoncalvess/projeto-integracao-py-node)**
-- **[Calculadora Python](https://github.com/franklingoncalvess/calculadora-python-estudos)**
+### 📈 Evolução dos meus projetos:
+1.  **[Olá Mundo](https://github.com/franklingoncalvess/Ola-Mundo):** Onde tudo começou (Lógica básica).
+2.  **[Calculadora Full Stack](https://github.com/franklingoncalvess/calculadora-python-estudos):** Evolução de um script Python para uma aplicação Web completa com API Flask.
+3.  **Integração Node/Python:** Projetos complexos conectando diferentes ecossistemas.
 
-*"A constância vence o talento quando o talento não tem constância."*
+---
+📫 **Como me encontrar:** [www.linkedin.com/in/
+franklingoncalvess] | [Franklingoncalvess@gmail.com]
+
+*"A evolução é constante, um commit de cada vez."*
