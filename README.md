@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Franklin (Fk.Dev)! 👋
 
-<!--
-**franklingoncalvess/franklingoncalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em uma jornada de transição para a área de tecnologia, focando em me tornar um desenvolvedor Full Stack. Atualmente, estou construindo minha base com Python e Node.js.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo:
+- **Linguagens:** Python, JavaScript (Node.js)
+- **Ferramentas:** Git, GitHub, VS Code
+- **Ambiente:** Linux (WSL2), Docker
+- **Foco Atual:** Integração de sistemas e lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Meus Projetos:
+- **[Projeto Integração Py-Node](https://github.com/franklingoncalvess/projeto-integracao-py-node)**
+- **[Calculadora Python](https://github.com/franklingoncalvess/calculadora-python-estudos)**
+
+*"A constância vence o talento quando o talento não tem constância."*
