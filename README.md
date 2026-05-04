@@ -51,7 +51,7 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ### 🔹 Olá Mundo
 
-📂 https://github.com/franklingoncalvess/Ola-Mundo
+📂 https://github.com/franklingoncalves-dev/ola-mundo
 🌐 Deploy: *(em breve)*
 
 🧠 **Descrição técnica:**
@@ -67,7 +67,7 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ### 🔹 Calculadora Full Stack
 
-📂 https://github.com/franklingoncalvess/calculadora-python-estudos
+📂 https://github.com/franklingoncalves-dev/calculadora-python-estudos
 🌐 Deploy: *(em breve)*
 
 🧠 **Descrição técnica:**
@@ -84,7 +84,7 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ### 🔹 Integração Node/Python
 
-📂 https://github.com/franklingoncalvess/projeto-integracao-py-node
+📂 https://github.com/franklingoncalves-dev/projeto-integracao-py-node
 🌐 Deploy: *(em breve)*
 
 🧠 **Descrição técnica:**
@@ -100,8 +100,8 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalvess\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalvess\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalves-dev\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalves-dev\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -109,7 +109,7 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 * 💼 LinkedIn:https://www.linkedin.com/in/franklingoncalvess
 * 📧 Email: [franklingoncalvess@gmail.com](mailto:franklingoncalvess@gmail.com)
-* 🌐 Portfólio: https://franklingoncalvess.github.io/portfolio-pessoal
+* 🌐 Portfólio: https://franklingoncalves-dev.github.io/portfolio-pessoal
 
 ---
 
