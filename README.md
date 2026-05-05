@@ -100,15 +100,15 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalves-dev\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalves-dev\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalves-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalves-dev&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🌐 Contato
 
-* 💼 LinkedIn:https://www.linkedin.com/in/franklingoncalvess
-* 📧 Email: [franklingoncalvess@gmail.com](mailto:franklingoncalvess@gmail.com)
+* 💼 LinkedIn:https://www.linkedin.com/in/franklingoncalves-dev
+* 📧 Email: [franklingoncalves.dev@gmail.com](mailto:franklingoncalves.dev@gmail.com)
 * 🌐 Portfólio: https://franklingoncalves-dev.github.io/portfolio-pessoal
 
 ---
