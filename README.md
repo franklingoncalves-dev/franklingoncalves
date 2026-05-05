@@ -100,8 +100,8 @@ Atualmente evoluindo projetos práticos com **Python, APIs e integração web**,
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalves-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalves-dev&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklingoncalves-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklingoncalves-dev&layout=compact&theme=tokyonight)
 
 ---
 
